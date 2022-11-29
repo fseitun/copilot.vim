@@ -41,6 +41,9 @@ COMMANDS                                        *:Copilot*
                         feedback.  Be sure to include |:Copilot_version|
                         output when reporting a bug.
 
+                                                *:Copilot_split*
+:Copilot split          Opens Copilot in a split window.
+
 OPTIONS                                         *copilot-options*
 
                                                 *g:copilot_filetypes*
